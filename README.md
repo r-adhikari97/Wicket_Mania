@@ -15,6 +15,3 @@ To install the necessary dependencies, run:
 
 ```bash
 https://github.com/r-adhikari97/Wicket_Mania.git
-
-
-
