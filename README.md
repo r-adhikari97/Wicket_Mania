@@ -2,6 +2,10 @@
 
 Wicket Wizard is a web application built using Streamlit that predicts the outcome probabilities of cricket matches based on Machine Learning models.
 
+## Display Screen
+![Dashboard](https://github.com/r-adhikari97/Wicket_Mania/assets/129427063/0ff8cd70-4b41-4270-b799-44c744421b65)
+
+
 ## Features:
 
 - Predicts the outcome probabilities of cricket matches.
